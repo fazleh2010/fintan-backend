@@ -1,5 +1,5 @@
 {
-"input" : "samples/tbx2rdf/test1.tbx"
+"input" : "samples/tbx2rdf/solar.tbx"
 , "output" : "System.out"
 , "pipeline" : [
 	{
